@@ -6,3 +6,6 @@
 
 - **Explore & Contribute:** Dive into our projects and enhance the world of ultra-high-definition video processing.
 - **Collaborate:** Open issues, submit pull requests, or join discussions—we value your input!
+
+## 🍿 Fun Fact
+Our team powers up with a mix of strong coffee and a love for ultra-high-definition innovation. Whether it’s 4K or 8K, we’re always pushing pixels to perfection!

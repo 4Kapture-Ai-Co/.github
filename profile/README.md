@@ -18,7 +18,7 @@ We aim to lead the IoT industry by developing sustainable, scalable, and secure 
 
 ## Contact Us
 
-For more information, partnerships, or inquiries, visit our website or contact us at info@ahsbo.com.
+For more information, partnerships, or inquiries, visit our website or contact us at info@ahsb.com.
 
 ---
 
